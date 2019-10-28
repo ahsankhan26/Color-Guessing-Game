@@ -1,6 +1,8 @@
 # Color-Guessing-Game
 A simple and effective way to improve your understanding of RGB color scheme for better web development.
 
+try it out : https://ahsankhan26.github.io/Color-Guessing-Game/Color%20Guessing%20Game/index.html
+
 # How RGB Works
 RGB stands for "Red", "Green" & "Blue".
 
